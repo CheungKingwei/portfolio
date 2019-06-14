@@ -59,3 +59,14 @@ body {
     box-shadow: 0 6px 20px rgba(8,82,255,.1)
 }
 
+.copyright{
+    color: #858B9C;
+    font-size: 12px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+a{
+    color: #41485D;
+    text-decoration: none;
+    cursor: pointer;
+}
